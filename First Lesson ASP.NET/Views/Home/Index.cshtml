@@ -1,0 +1,69 @@
+﻿@model List<Todo>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .row p {
+        text-align: initial;
+    }
+    .line {
+        text-decoration: line-through;
+    }
+</style>
+
+<div class="container text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-6">
+            <form action="/Home/AddTodo" method="POST">
+                <div class="input-group mb-3">
+                    <input type="text"
+                           class="form-control"
+                           name="Name"
+                           placeholder="Add New Todo ..." />
+
+                    <input type="submit" class="btn btn-success" value="Add" />
+                </div>
+            </form>
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-6">
+            @if (Model.Count != 0)
+            {
+                @foreach (Todo task in Model)
+                {
+                    <div class="row border-bottom rounded mb-3">
+                        <div class="col-10">                             
+                            @if (task.IsDone)
+                            {
+                                <p class="p-1 text-muted line">@task.Name</p>
+                            }
+                            else
+                            {
+                                <p class="p-1 font-weight-bold">@task.Name</p>
+                            }
+                        </div>
+
+                        <div class="col-1 p-0">
+                            <a href="/Home/CheckTodo/@task.Id" class="btn btn-success">✓</a>
+                        </div>
+                        <div class="col-1 p-0">
+                            <a href="/Home/DeleteTodo/@task.Id" class="btn btn-danger">⌫</a>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+</div>
+

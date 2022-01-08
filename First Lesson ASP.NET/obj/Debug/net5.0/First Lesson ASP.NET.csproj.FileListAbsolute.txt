@@ -1,0 +1,40 @@
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\appsettings.json
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.exe
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.deps.json
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.runtimeconfig.json
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.runtimeconfig.dev.json
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.dll
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\ref\First Lesson ASP.NET.dll
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.pdb
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.Views.dll
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\bin\Debug\net5.0\First Lesson ASP.NET.Views.pdb
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.csproj.AssemblyReference.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.AssemblyInfo.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorAssemblyInfo.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorAssemblyInfo.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\staticwebassets\First Lesson ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\staticwebassets\First Lesson ASP.NET.StaticWebAssets.xml
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\scopedcss\bundle\First Lesson ASP.NET.styles.css
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.TagHelpers.input.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.TagHelpers.output.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorCoreGenerate.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.Views.pdb
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.dll
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\ref\First Lesson ASP.NET.dll
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.pdb
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.genruntimeconfig.cache
+C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.csproj.CopyComplete
