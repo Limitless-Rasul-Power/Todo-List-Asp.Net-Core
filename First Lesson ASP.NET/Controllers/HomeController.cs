@@ -19,7 +19,11 @@ namespace First_Lesson_ASP.NET.Controllers
             _logger = logger;
         }
         public IActionResult Index()
-        {            
+        {
+            var orderedTodos = _todos.OrderBy(t => t.IsDone).ToList();
+            _todos.Clear();
+            orderedTodos.ForEach(todo => _todos.Add(todo));
+
             return View(_todos);
         }
 

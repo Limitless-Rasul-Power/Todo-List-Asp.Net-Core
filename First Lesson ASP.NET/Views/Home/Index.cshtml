@@ -2,16 +2,6 @@
 @{
     ViewData["Title"] = "Home Page";
 }
-
-<style>
-    .row p {
-        text-align: initial;
-    }
-    .line {
-        text-decoration: line-through;
-    }
-</style>
-
 <div class="container text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
@@ -53,10 +43,12 @@
                         </div>
 
                         <div class="col-1 p-0">
-                            <a href="/Home/CheckTodo/@task.Id" class="btn btn-success">✓</a>
+                            <a asp-controller="Home" asp-action="CheckTodo" asp-route-id="@task.Id" 
+                               class="btn btn-success">✓</a>
                         </div>
                         <div class="col-1 p-0">
-                            <a href="/Home/DeleteTodo/@task.Id" class="btn btn-danger">⌫</a>
+                            <a asp-controller="Home" asp-action="DeleteTodo" asp-route-id="@task.Id"
+                               class="btn btn-danger">⌫</a>
                         </div>
                     </div>
                 }

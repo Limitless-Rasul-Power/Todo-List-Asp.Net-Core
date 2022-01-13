@@ -18,7 +18,6 @@ C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\
 C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorAssemblyInfo.cache
 C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.RazorAssemblyInfo.cs
 C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\staticwebassets\First Lesson ASP.NET.StaticWebAssets.Manifest.cache
-C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\staticwebassets\First Lesson ASP.NET.StaticWebAssets.xml
 C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\scopedcss\bundle\First Lesson ASP.NET.styles.css
 C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.TagHelpers.input.cache
 C:\Users\Rasul\source\repos\First Lesson ASP.NET\First Lesson ASP.NET\obj\Debug\net5.0\First Lesson ASP.NET.TagHelpers.output.cache
